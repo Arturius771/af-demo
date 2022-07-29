@@ -1,6 +1,14 @@
 # AfDemo
 
+This is my personal Angular project, and will be a place that I demo frontend features that I am working on.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+# To-Do List
+
+- Implement a semantic versioning system with related major/minor patch scripts.
+- Create a custom attribute directive to handle user defined background colours.
+- Create a task tracker to provide context to commits.
 
 ## Development server
 
